@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  GratefulMoments
 //
-//  Created by 백대성 on 2/3/26.
+//  Created by 하연주 on 2/3/26.
 //
 
 import SwiftUI
